@@ -1,0 +1,126 @@
+[package]
+name = "examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+colored = "2"
+
+# Chapter 1 listing binaries — one per individual file under ch01/
+[[bin]]
+name = "listing_01_01"
+path = "ch01/listing_01_01.rs"
+
+[[bin]]
+name = "listing_01_02"
+path = "ch01/listing_01_02.rs"
+
+[[bin]]
+name = "listing_01_03"
+path = "ch01/listing_01_03.rs"
+
+[[bin]]
+name = "listing_01_04"
+path = "ch01/listing_01_04.rs"
+
+[[bin]]
+name = "listing_01_05"
+path = "ch01/listing_01_05.rs"
+
+[[bin]]
+name = "listing_01_06"
+path = "ch01/listing_01_06.rs"
+
+[[bin]]
+name = "listing_01_08"
+path = "ch01/listing_01_08.rs"
+
+[[bin]]
+name = "listing_01_09"
+path = "ch01/listing_01_09.rs"
+
+[[bin]]
+name = "listing_01_10"
+path = "ch01/listing_01_10.rs"
+
+[[bin]]
+name = "listing_01_11"
+path = "ch01/listing_01_11.rs"
+
+[[bin]]
+name = "listing_01_12"
+path = "ch01/listing_01_12.rs"
+
+[[bin]]
+name = "listing_01_13"
+path = "ch01/listing_01_13.rs"
+
+[[bin]]
+name = "listing_01_14"
+path = "ch01/listing_01_14.rs"
+
+[[bin]]
+name = "listing_01_15"
+path = "ch01/listing_01_15.rs"
+
+[[bin]]
+name = "listing_01_16"
+path = "ch01/listing_01_16.rs"
+
+[[bin]]
+name = "listing_01_17"
+path = "ch01/listing_01_17.rs"
+
+[[bin]]
+name = "listing_01_18"
+path = "ch01/listing_01_18.rs"
+
+[[bin]]
+name = "listing_01_19"
+path = "ch01/listing_01_19.rs"
+
+[[bin]]
+name = "listing_01_20"
+path = "ch01/listing_01_20.rs"
+
+[[bin]]
+name = "listing_01_21"
+path = "ch01/listing_01_21.rs"
+
+[[bin]]
+name = "listing_01_23"
+path = "ch01/listing_01_23.rs"
+
+# Future chapter binaries — uncomment when files exist
+# [[bin]]
+# name = "ch02"
+# path = "src/ch02.rs"
+
+# [[bin]]
+# name = "ch03"
+# path = "src/ch03.rs"
+
+# [[bin]]
+# name = "ch05"
+# path = "src/ch05.rs"
+
+# [[bin]]
+# name = "ch06"
+# path = "src/ch06.rs"
+
+# [[bin]]
+# name = "ch07"
+# path = "src/ch07.rs"
+
+# [[bin]]
+# name = "ch08"
+# path = "src/ch08.rs"
+
+# [[bin]]
+# name = "ch09"
+# path = "src/ch09.rs"
+
+# [[bin]]
+# name = "ch10"
+# path = "src/ch10.rs"
