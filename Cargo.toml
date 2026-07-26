@@ -1,13 +1,6 @@
 [workspace]
 resolver = "2"
-members = [
-    "guessing-game",
-    "tictactoe-ratatui",
-    "touchtyping",
-    "examples",
-    "series",
-    "series/ep05_space_invaders",
-]
+members = [ "examples" ]
 
 [profile.dev]
 opt-level = 1

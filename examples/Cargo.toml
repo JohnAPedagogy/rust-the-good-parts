@@ -7,7 +7,7 @@ edition = "2021"
 rand = "0.8"
 colored = "2"
 
-# Chapter 1 listing binaries — one per individual file under ch01/
+# Chapter 1
 [[bin]]
 name = "listing_01_01"
 path = "ch01/listing_01_01.rs"
@@ -92,35 +92,450 @@ path = "ch01/listing_01_21.rs"
 name = "listing_01_23"
 path = "ch01/listing_01_23.rs"
 
-# Future chapter binaries — uncomment when files exist
-# [[bin]]
-# name = "ch02"
-# path = "src/ch02.rs"
+# Chapter 2
+[[bin]]
+name = "listing_02_01"
+path = "ch02/listing_02_01.rs"
 
-# [[bin]]
-# name = "ch03"
-# path = "src/ch03.rs"
+[[bin]]
+name = "listing_02_02"
+path = "ch02/listing_02_02.rs"
 
-# [[bin]]
-# name = "ch05"
-# path = "src/ch05.rs"
+[[bin]]
+name = "listing_02_03"
+path = "ch02/listing_02_03.rs"
 
-# [[bin]]
-# name = "ch06"
-# path = "src/ch06.rs"
+[[bin]]
+name = "listing_02_04"
+path = "ch02/listing_02_04.rs"
 
-# [[bin]]
-# name = "ch07"
-# path = "src/ch07.rs"
+[[bin]]
+name = "listing_02_05"
+path = "ch02/listing_02_05.rs"
 
-# [[bin]]
-# name = "ch08"
-# path = "src/ch08.rs"
+[[bin]]
+name = "listing_02_06"
+path = "ch02/listing_02_06.rs"
 
-# [[bin]]
-# name = "ch09"
-# path = "src/ch09.rs"
+[[bin]]
+name = "listing_02_07"
+path = "ch02/listing_02_07.rs"
 
-# [[bin]]
-# name = "ch10"
-# path = "src/ch10.rs"
+[[bin]]
+name = "listing_02_08"
+path = "ch02/listing_02_08.rs"
+
+[[bin]]
+name = "listing_02_09"
+path = "ch02/listing_02_09.rs"
+
+[[bin]]
+name = "listing_02_10"
+path = "ch02/listing_02_10.rs"
+
+[[bin]]
+name = "listing_02_11"
+path = "ch02/listing_02_11.rs"
+
+[[bin]]
+name = "listing_02_12"
+path = "ch02/listing_02_12.rs"
+
+[[bin]]
+name = "listing_02_13"
+path = "ch02/listing_02_13.rs"
+
+[[bin]]
+name = "listing_02_14"
+path = "ch02/listing_02_14.rs"
+
+[[bin]]
+name = "listing_02_15"
+path = "ch02/listing_02_15.rs"
+
+[[bin]]
+name = "exercise_02_02"
+path = "ch02/exercise_02_02.rs"
+
+[[bin]]
+name = "exercise_02_03"
+path = "ch02/exercise_02_03.rs"
+
+[[bin]]
+name = "lab_02_01"
+path = "ch02/lab_02_01.rs"
+
+# Chapter 3
+[[bin]]
+name = "listing_03_01"
+path = "ch03/listing_03_01.rs"
+
+[[bin]]
+name = "listing_03_02"
+path = "ch03/listing_03_02.rs"
+
+[[bin]]
+name = "listing_03_03"
+path = "ch03/listing_03_03.rs"
+
+[[bin]]
+name = "listing_03_04"
+path = "ch03/listing_03_04.rs"
+
+[[bin]]
+name = "listing_03_05"
+path = "ch03/listing_03_05.rs"
+
+[[bin]]
+name = "listing_03_06"
+path = "ch03/listing_03_06.rs"
+
+[[bin]]
+name = "listing_03_07"
+path = "ch03/listing_03_07.rs"
+
+[[bin]]
+name = "listing_03_08"
+path = "ch03/listing_03_08.rs"
+
+[[bin]]
+name = "listing_03_12"
+path = "ch03/listing_03_12.rs"
+
+[[bin]]
+name = "exercise_03_01"
+path = "ch03/exercise_03_01.rs"
+
+[[bin]]
+name = "exercise_03_02"
+path = "ch03/exercise_03_02.rs"
+
+[[bin]]
+name = "exercise_03_04"
+path = "ch03/exercise_03_04.rs"
+
+[[bin]]
+name = "lab_03_01"
+path = "ch03/lab_03_01.rs"
+
+# Chapter 5
+[[bin]]
+name = "listing_05_03"
+path = "ch05/listing_05_03.rs"
+
+[[bin]]
+name = "listing_05_04"
+path = "ch05/listing_05_04.rs"
+
+[[bin]]
+name = "listing_05_05"
+path = "ch05/listing_05_05.rs"
+
+[[bin]]
+name = "listing_05_06"
+path = "ch05/listing_05_06.rs"
+
+[[bin]]
+name = "listing_05_07"
+path = "ch05/listing_05_07.rs"
+
+[[bin]]
+name = "listing_05_08"
+path = "ch05/listing_05_08.rs"
+
+[[bin]]
+name = "listing_05_09"
+path = "ch05/listing_05_09.rs"
+
+[[bin]]
+name = "listing_05_11"
+path = "ch05/listing_05_11.rs"
+
+[[bin]]
+name = "listing_05_12"
+path = "ch05/listing_05_12.rs"
+
+[[bin]]
+name = "listing_05_13"
+path = "ch05/listing_05_13.rs"
+
+[[bin]]
+name = "listing_05_14"
+path = "ch05/listing_05_14.rs"
+
+[[bin]]
+name = "listing_05_17"
+path = "ch05/listing_05_17.rs"
+
+[[bin]]
+name = "listing_05_18"
+path = "ch05/listing_05_18.rs"
+
+# Chapter 6
+[[bin]]
+name = "listing_06_01"
+path = "ch06/listing_06_01.rs"
+
+[[bin]]
+name = "listing_06_02"
+path = "ch06/listing_06_02.rs"
+
+[[bin]]
+name = "listing_06_03"
+path = "ch06/listing_06_03.rs"
+
+[[bin]]
+name = "listing_06_04"
+path = "ch06/listing_06_04.rs"
+
+[[bin]]
+name = "listing_06_05"
+path = "ch06/listing_06_05.rs"
+
+[[bin]]
+name = "listing_06_06"
+path = "ch06/listing_06_06.rs"
+
+[[bin]]
+name = "listing_06_07"
+path = "ch06/listing_06_07.rs"
+
+[[bin]]
+name = "listing_06_08"
+path = "ch06/listing_06_08.rs"
+
+[[bin]]
+name = "listing_06_09"
+path = "ch06/listing_06_09.rs"
+
+[[bin]]
+name = "listing_06_10"
+path = "ch06/listing_06_10.rs"
+
+[[bin]]
+name = "listing_06_11"
+path = "ch06/listing_06_11.rs"
+
+[[bin]]
+name = "listing_06_12"
+path = "ch06/listing_06_12.rs"
+
+[[bin]]
+name = "listing_06_13"
+path = "ch06/listing_06_13.rs"
+
+[[bin]]
+name = "listing_06_14"
+path = "ch06/listing_06_14.rs"
+
+[[bin]]
+name = "listing_06_15"
+path = "ch06/listing_06_15.rs"
+
+[[bin]]
+name = "listing_06_16"
+path = "ch06/listing_06_16.rs"
+
+[[bin]]
+name = "listing_06_17"
+path = "ch06/listing_06_17.rs"
+
+[[bin]]
+name = "listing_06_18"
+path = "ch06/listing_06_18.rs"
+
+[[bin]]
+name = "listing_06_19"
+path = "ch06/listing_06_19.rs"
+
+# Chapter 7
+[[bin]]
+name = "listing_07_01"
+path = "ch07/listing_07_01.rs"
+
+[[bin]]
+name = "listing_07_02"
+path = "ch07/listing_07_02.rs"
+
+[[bin]]
+name = "listing_07_03"
+path = "ch07/listing_07_03.rs"
+
+[[bin]]
+name = "listing_07_04"
+path = "ch07/listing_07_04.rs"
+
+[[bin]]
+name = "listing_07_05"
+path = "ch07/listing_07_05.rs"
+
+[[bin]]
+name = "listing_07_07"
+path = "ch07/listing_07_07.rs"
+
+[[bin]]
+name = "listing_07_08"
+path = "ch07/listing_07_08.rs"
+
+[[bin]]
+name = "listing_07_10"
+path = "ch07/listing_07_10.rs"
+
+[[bin]]
+name = "listing_07_16"
+path = "ch07/listing_07_16.rs"
+
+[[bin]]
+name = "listing_07_17"
+path = "ch07/listing_07_17.rs"
+
+# Chapter 8
+[[bin]]
+name = "listing_08_01"
+path = "ch08/listing_08_01.rs"
+
+[[bin]]
+name = "listing_08_03"
+path = "ch08/listing_08_03.rs"
+
+[[bin]]
+name = "listing_08_04"
+path = "ch08/listing_08_04.rs"
+
+[[bin]]
+name = "listing_08_08"
+path = "ch08/listing_08_08.rs"
+
+[[bin]]
+name = "listing_08_09"
+path = "ch08/listing_08_09.rs"
+
+[[bin]]
+name = "listing_08_10"
+path = "ch08/listing_08_10.rs"
+
+[[bin]]
+name = "listing_08_11"
+path = "ch08/listing_08_11.rs"
+
+[[bin]]
+name = "listing_08_12"
+path = "ch08/listing_08_12.rs"
+
+[[bin]]
+name = "listing_08_13"
+path = "ch08/listing_08_13.rs"
+
+[[bin]]
+name = "listing_08_14"
+path = "ch08/listing_08_14.rs"
+
+[[bin]]
+name = "listing_08_15"
+path = "ch08/listing_08_15.rs"
+
+[[bin]]
+name = "listing_08_16"
+path = "ch08/listing_08_16.rs"
+
+[[bin]]
+name = "listing_08_18"
+path = "ch08/listing_08_18.rs"
+
+# Chapter 9
+[[bin]]
+name = "listing_09_01"
+path = "ch09/listing_09_01.rs"
+
+[[bin]]
+name = "listing_09_02"
+path = "ch09/listing_09_02.rs"
+
+[[bin]]
+name = "listing_09_04"
+path = "ch09/listing_09_04.rs"
+
+[[bin]]
+name = "listing_09_05"
+path = "ch09/listing_09_05.rs"
+
+[[bin]]
+name = "listing_09_06"
+path = "ch09/listing_09_06.rs"
+
+[[bin]]
+name = "listing_09_07"
+path = "ch09/listing_09_07.rs"
+
+[[bin]]
+name = "listing_09_08"
+path = "ch09/listing_09_08.rs"
+
+[[bin]]
+name = "listing_09_09"
+path = "ch09/listing_09_09.rs"
+
+[[bin]]
+name = "listing_09_10"
+path = "ch09/listing_09_10.rs"
+
+[[bin]]
+name = "listing_09_11"
+path = "ch09/listing_09_11.rs"
+
+[[bin]]
+name = "listing_09_12"
+path = "ch09/listing_09_12.rs"
+
+[[bin]]
+name = "listing_09_13"
+path = "ch09/listing_09_13.rs"
+
+# Chapter 10
+[[bin]]
+name = "listing_10_01"
+path = "ch10/listing_10_01.rs"
+
+[[bin]]
+name = "listing_10_02"
+path = "ch10/listing_10_02.rs"
+
+[[bin]]
+name = "listing_10_03"
+path = "ch10/listing_10_03.rs"
+
+[[bin]]
+name = "listing_10_04"
+path = "ch10/listing_10_04.rs"
+
+[[bin]]
+name = "listing_10_05"
+path = "ch10/listing_10_05.rs"
+
+[[bin]]
+name = "listing_10_06"
+path = "ch10/listing_10_06.rs"
+
+[[bin]]
+name = "listing_10_08"
+path = "ch10/listing_10_08.rs"
+
+[[bin]]
+name = "listing_10_09"
+path = "ch10/listing_10_09.rs"
+
+[[bin]]
+name = "listing_10_10"
+path = "ch10/listing_10_10.rs"
+
+[[bin]]
+name = "listing_10_11"
+path = "ch10/listing_10_11.rs"
+
+[[bin]]
+name = "listing_10_12"
+path = "ch10/listing_10_12.rs"
+
+[[bin]]
+name = "listing_10_13"
+path = "ch10/listing_10_13.rs"
