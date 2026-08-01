@@ -171,6 +171,6 @@ Standalone listings from the companion "Rust the Good Parts" blog series
 ## Code Provenance
 
 All source code in this workspace was extracted verbatim from code blocks in
-the *Rust — The Good Parts* markdown source files, and from the companion
+the *Rust - The Good Parts* markdown source files, and from the companion
 blog series' markdown posts. See the book repository, and the blog series
 itself, for the full text, exercises, and solutions.
