@@ -1,7 +1,7 @@
-# Rust — The Good Parts: Source Code
+# Rust - The Good Parts: Source Code
 
-This workspace contains the complete Rust source code extracted from the book
-*Rust — The Good Parts* by Iyalla John Alamina.
+This workspace contains the complete Rust source listings from the book
+*Rust - The Good Parts* by Iyalla John Alamina.
 
 ## Workspace Structure
 
